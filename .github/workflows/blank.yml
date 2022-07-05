@@ -11,9 +11,9 @@ Window 10 RDP is the most popular RDP service in the world this system contains
 7GB RAM
 255GB SSD storage service
 source code
-name: CI
+name:CI
 
-on: [push, workflow_dispatch]
+on:[push, workflow_dispatch]
 
 jobs:
 build:
